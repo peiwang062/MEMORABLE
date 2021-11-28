@@ -68,6 +68,12 @@ train_butterflies_CMaxGrad_simclr.py
 train_gull_CMaxGrad_simclr.py
 ```
 
+For the SimCLR, we used [repo](https://github.com/Spijkervet/SimCLR) for training. Thanks for their open-source.
+For standard model, we trained by
+```
+train_butterflies_resnet18.py
+train_gull_resnet18_linear.py
+```
 For questions, feel free to reach out
 ```
 Pei Wang: peiwang062@gmail.com
