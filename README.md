@@ -5,7 +5,7 @@ This repository contains the source code accompanying our ICCV 2021 paper.
 
 **[A Machine Teaching Framework for Scalable Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_A_Machine_Teaching_Framework_for_Scalable_Recognition_ICCV_2021_paper.html)**  
 [Pei Wang](http://www.svcl.ucsd.edu/~peiwang), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).  
-In ICCV, 2021.
+In ICCV, 2021. [Demo](https://xmaxgrad-butterflies2.herokuapp.com/)
 
 ```
 @InProceedings{wang2021gradient,
